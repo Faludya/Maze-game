@@ -90,23 +90,5 @@ python main.py
 - Load saved game
 - Quit
 
-  ### 🧩 Example
-
-  Start of a new game:
-P   *   X   O   E
-
-X   X   X   X   X
-
-    (   :   !   *
-
-Player Command:
-
-> n
-> 
-You moved north.
-
-You found a Boomstick!
-
-
 
 
