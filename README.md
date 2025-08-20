@@ -93,11 +93,20 @@ python main.py
   ### 🧩 Example
 
   Start of a new game:
-  ```bash
 P   *   X   O   E
+
 X   X   X   X   X
+
     (   :   !   *
-```
+
+Player Command:
+
+> n
+> 
+You moved north.
+
+You found a Boomstick!
+
 
 
 
